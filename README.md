@@ -14,7 +14,8 @@ https://chatgpt.com/
 Para criar este conteúdo, utilizei o ChatGPT para escrever o roteiro, o ElevenLabs para gerar e editar a voz, e o Heygen para criar o avatar, reunindo as melhores tecnologias de IA para oferecer uma experiência visual e sonora única.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/lpkyra/lab-natty-or-not/blob/main/Desafio%20IA.mp4
+Url para caminho onde se encontra o video final do desafio . 
 
 ## 💭 Reflexão (Opcional)
 Criar algo "natty" (no sentido de algo legal, interessante e com estilo) com IA envolve combinar criatividade humana com a precisão e eficiência das ferramentas digitais. A chave para criar algo único é aproveitar as capacidades da IA, como o ChatGPT para gerar ideias e roteiros, o ElevenLabs para dar voz a esses conceitos, e o Heygen para dar vida visual ao projeto.
